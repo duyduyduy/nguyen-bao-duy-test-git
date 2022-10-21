@@ -1,4 +1,11 @@
 def calculate():
+
+
+
+
+
+  number_1 = int(input('Please enter the first number: '))
+  number_2 = int(input('Please enter the second number: '))
   operation = input('''
 Please type in the math operation you would like to complete:
 + for addition
@@ -7,8 +14,7 @@ Please type in the math operation you would like to complete:
 / for division
 ''')
 
-  number_1 = int(input('Please enter the first number: '))
-  number_2 = int(input('Please enter the second number: '))
+  
 
  
  
