@@ -17,17 +17,17 @@ Please type in the math operation you would like to complete:
     print('{} + {} = '.format(number_1, number_2))
     print(number_1 + number_2)
  
-  if operation == '-':
+  elif operation == '-':
     print('{} - {} = '.format(number_1, number_2))
     print(number_1 - number_2)
  
  
-  if operation == '*':
+  elif operation == '*':
     print('{} * {} = '.format(number_1, number_2))
     print(number_1 * number_2)
  
  
-  if operation == '/':
+  elif operation == '/':
     print('{} / {} = '.format(number_1, number_2))
     print(number_1 / number_2)
  
